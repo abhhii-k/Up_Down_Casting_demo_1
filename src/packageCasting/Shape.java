@@ -1,7 +1,5 @@
 package packageCasting;
 
-
-
 public class Shape {
 	
 	private int num1 ;
